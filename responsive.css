@@ -1,0 +1,209 @@
+@media only screen and (max-width: 1066px){
+    .hero-section-data{
+        padding-inline: 50px;
+    }
+    .left-hero-text h1{
+        font-size: 40px;
+        
+    }
+}
+@media only screen and (max-width: 1147PX){
+    .first {
+        margin-right: 50px;
+    }
+}
+@media only screen and (max-width: 991px){
+    .primary-button {
+        font-size: 10px !important;
+            padding: 7px 16px !important;
+        
+    }
+    .nav-links ul {
+        position: absolute;
+        flex-direction: column;
+        width: 100%;
+        top: 42px;
+        background: white;
+        left: -100%;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        transition: all 0.4s ease-in-out;
+        gap: 34px !important;
+    }
+    .nav-toggle{
+        display: block;
+    }
+    .nav-bar{
+        gap: 310px;
+    }
+    .left-hero-img img {
+        width: 50vw;
+    }
+    .first-hero-data{
+        gap: 14px;
+    }
+    .left-hero-img2 img {
+        width: 45vw;
+    }
+    .right-body-image img {
+        width: 40vw;
+    }
+    .left-body-text p {
+        font-size: 0.8rem;
+    }
+    .first{
+        margin-right: 0;
+    }
+    .big-example-section-data{
+        margin-inline: 20px;
+    }
+    .body-section-data {
+        gap: 43px;
+    }
+    .offer-section-data {
+        gap: 100px;
+    }
+}
+@media only screen and (max-width: 881px){
+    .footer-section{
+        flex-wrap: wrap;
+    }
+    .left-hero-text h1 {
+        font-size: 2.5rem;
+    }
+    h1{
+        font-size: 2.5rem;
+    }
+    .scnd-last h1 {
+        font-size: 2.5rem;
+    }
+    .big-example-section-data h1 {
+        font-size: 2.5rem;
+    }
+    .right-hero-img img {
+        width: 25vw;
+    }
+    .body-section-data{
+        flex-direction: column;
+    }
+    .right-body-image img {
+        width: 60vw;
+    }
+    .left-body-text{
+        align-items: center;
+    }
+    .left-body-text p{
+        width: 347px;
+        text-align: center;
+    }
+}
+@media only screen and (max-width: 810px){
+    .left-hero-text h1 {
+        font-size: 2.2rem;
+    }
+    .right-hero-data h1 {
+        font-size: 2rem;
+    }
+    .primary-button{
+        padding: 10px 25px;
+}
+.offer-box-text h1 {
+    font-size: 1.3rem;
+}
+}
+@media only screen and (max-width: 1000px){
+    .big-exampla-parent{
+        flex-direction: column;
+    }
+    .big-example-section-data h1{
+        text-align: center;
+    }
+}
+@media only screen and (max-width: 750px){
+    .first-hero-data{
+        flex-direction: column;
+        align-items: center;
+    }
+    .right-hero-data{
+        align-items: center;
+    }
+    .right-hero-data p{
+        text-align: center;
+    }
+    .left-hero-img2 img {
+        width: 50vw;
+    }
+    .right-hero-data h1 {
+        font-size: 2rem;
+        text-align: center;
+    }
+    .offer-section-data {
+        gap: 14px;
+        flex-direction: column;
+    }
+    .left-offer-text{
+        align-items: center;
+    }
+}
+@media only screen and (max-width: 550px){
+    .hero-section-data{
+        flex-direction: column-reverse;
+    }
+    .right-hero-img img {
+        width: 60vw;
+    }
+    .left-hero-img img {
+        width: 114vw;
+    }
+    .right-hero-data p{
+        width: 90%;
+    }
+    .left-hero-img2 img {
+        width: 80vw;
+    }
+    .companies-data p {
+        margin-left: 20px;
+    }
+    .logo-body{
+        flex-wrap: wrap;
+        margin: auto;
+        max-width: 80%;
+    }
+    .left-offer-text :nth-child(2) {
+        color: rgb(76, 175, 79);
+        font-size: 20px;
+    }
+    .nav-bar{
+        justify-content: space-around;
+        gap: 10px;
+    }
+    .companies-example-data h2 {
+        color: rgb(77, 77, 77);
+        font-size: 15px;
+    width: 80%;
+    }
+    .top-offer-section, .bottom-offer-section {
+        gap: 65px;
+        flex-wrap: wrap;
+    }
+    .footer-section {
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .same {
+        align-items: center;
+    }
+    .scnd-last h1 {
+        font-size: 1.5rem;
+    }
+    .right-hero-data h1 {
+        font-size: 1.5rem;
+        text-align: center;
+        width: 80%;
+    }
+    .nav-toggle svg{
+        width: 20px;
+    }
+}
